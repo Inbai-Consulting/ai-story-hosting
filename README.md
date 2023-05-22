@@ -1,1 +1,1 @@
-# ai-story-hosting
+AI-Story
